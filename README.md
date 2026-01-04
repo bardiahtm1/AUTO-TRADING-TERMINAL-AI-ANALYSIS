@@ -1,7 +1,7 @@
 # AUTO TRADING TERMINAL
 
-Professional MT5-style chart analysis terminal (analysis-only).
-Auto trading with an algorythim of 60% succsess rate 
+professional MT5-style chart analysis terminal (analysis-only).
+Auto trading with an algorithm of 60% success rate 
 ## Setup
 1. python -m venv venv
 2. venv\Scripts\activate
